@@ -27,7 +27,6 @@ cat <<EOL >$golinks_html
     </style>
 </head>
 <body>
-    <h1>Redirect Server Subpaths</h1>
     <table>
         <tr>
             <th>Subpath</th>
